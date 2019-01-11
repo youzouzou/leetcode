@@ -10,3 +10,10 @@
 16. [最接近的三数之和](https://github.com/youzouzou/leetcode/issues/8)
 18. [四数之和](https://github.com/youzouzou/leetcode/issues/9)
 19. [删除链表的倒数第N个节点](https://github.com/youzouzou/leetcode/issues/10)
+
+以下待更新-----
+
+20. [有效的括号]()
+21. [合并两个有序链表]()
+26. [删除排序数组中的重复项]()
+27. [移除元素]()
