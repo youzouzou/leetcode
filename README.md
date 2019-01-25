@@ -21,4 +21,5 @@
 169. [求众数](https://github.com/youzouzou/leetcode/issues/19)
 263. [丑数](https://github.com/youzouzou/leetcode/issues/20)
 283. [移动零](https://github.com/youzouzou/leetcode/issues/22)
+389. [找不同](https://github.com/youzouzou/leetcode/issues/23)
 520. [检测大写字母](https://github.com/youzouzou/leetcode/issues/21)
