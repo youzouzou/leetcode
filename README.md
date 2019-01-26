@@ -27,5 +27,6 @@
 349. [两个数组的交集](https://github.com/youzouzou/leetcode/issues/29)
 389. [找不同](https://github.com/youzouzou/leetcode/issues/23)
 520. [检测大写字母](https://github.com/youzouzou/leetcode/issues/21)
+561. [数组拆分 I](https://github.com/youzouzou/leetcode/issues/30)
 747. [至少是其他数字两倍的最大数](https://github.com/youzouzou/leetcode/issues/26)
 804. [唯一摩尔斯密码词](https://github.com/youzouzou/leetcode/issues/27)
