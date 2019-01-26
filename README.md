@@ -25,3 +25,4 @@
 283. [移动零](https://github.com/youzouzou/leetcode/issues/22)
 389. [找不同](https://github.com/youzouzou/leetcode/issues/23)
 520. [检测大写字母](https://github.com/youzouzou/leetcode/issues/21)
+747. [至少是其他数字两倍的最大数](https://github.com/youzouzou/leetcode/issues/26)
