@@ -49,7 +49,9 @@
 690. [员工的重要性](https://github.com/youzouzou/leetcode/issues/47)
 747. [至少是其他数字两倍的最大数](https://github.com/youzouzou/leetcode/issues/26)
 804. [唯一摩尔斯密码词](https://github.com/youzouzou/leetcode/issues/27)
+806. [写字符串需要的行数](https://github.com/youzouzou/leetcode/issues/51)
 811. [子域名访问计数](https://github.com/youzouzou/leetcode/issues/41)
+830. [较大分组的位置](https://github.com/youzouzou/leetcode/issues/52)
 
 
 
