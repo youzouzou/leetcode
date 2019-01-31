@@ -53,6 +53,7 @@
 561. [数组拆分 I](https://github.com/youzouzou/leetcode/issues/30)
 566. [重塑矩阵](https://github.com/youzouzou/leetcode/issues/33)
 575. [分糖果](https://github.com/youzouzou/leetcode/issues/54)
+593. [有效的正方形]()
 605. [种花问题](https://github.com/youzouzou/leetcode/issues/35)
 606. [根据二叉树创建字符串](https://github.com/youzouzou/leetcode/issues/55)
 648. [单词替换](https://github.com/youzouzou/leetcode/issues/63)
