@@ -39,7 +39,7 @@
 215. [数组中的第K个最大元素](https://github.com/youzouzou/leetcode/issues/74)
 219. [存在重复元素 II](https://github.com/youzouzou/leetcode/issues/46)
 231. [数的幂](https://github.com/youzouzou/leetcode/issues/36)
-238. [除自身以外数组的乘积]()
+238. [除自身以外数组的乘积](https://github.com/youzouzou/leetcode/issues/79)
 263. [丑数](https://github.com/youzouzou/leetcode/issues/20)
 268. [缺失数字](https://github.com/youzouzou/leetcode/issues/24)
 178. [第一个错误的版本](https://github.com/youzouzou/leetcode/issues/57)
@@ -64,10 +64,12 @@
 605. [种花问题](https://github.com/youzouzou/leetcode/issues/35)
 606. [根据二叉树创建字符串](https://github.com/youzouzou/leetcode/issues/55)
 648. [单词替换](https://github.com/youzouzou/leetcode/issues/63)
+657. [判断路线成圈]()
 665. [非递减数列](https://github.com/youzouzou/leetcode/issues/32)
 677. [键值映射](https://github.com/youzouzou/leetcode/issues/62)
 682. [棒球比赛](https://github.com/youzouzou/leetcode/issues/31)
 690. [员工的重要性](https://github.com/youzouzou/leetcode/issues/47)
+695. [岛屿的最大面积](https://github.com/youzouzou/leetcode/issues/81)
 724. [寻找数组的中心索引](https://github.com/youzouzou/leetcode/issues/53)
 738. [单调递增的数字](https://github.com/youzouzou/leetcode/issues/75)
 744. [寻找比目标字母大的最小字母](https://github.com/youzouzou/leetcode/issues/64)
@@ -79,6 +81,7 @@
 811. [子域名访问计数](https://github.com/youzouzou/leetcode/issues/41)
 824. [山羊拉丁文](https://github.com/youzouzou/leetcode/issues/67)
 830. [较大分组的位置](https://github.com/youzouzou/leetcode/issues/52)
+844. [比较含退格的字符串](https://github.com/youzouzou/leetcode/issues/80)
 
 
 
