@@ -1,4 +1,4 @@
-# leetcode
+# leetcode C++
 
 1. [两数之和](https://github.com/youzouzou/leetcode/issues/1)
 4. [寻找两个有序数组的中位数](https://github.com/youzouzou/leetcode/issues/6)
